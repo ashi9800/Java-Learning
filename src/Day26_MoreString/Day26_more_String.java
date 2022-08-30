@@ -45,6 +45,7 @@ public class Day26_more_String {
 		aa.deleteCharAt(11);
 		System.out.println(aa);
 		
+		//so replace i can give starting index and ending index and give the text you want replce 
 		aa.replace(6, 11, "people ");
 		System.out.println(aa); 
 
